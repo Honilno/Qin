@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "peasant_berserker",
+    "Agility": 4,
+    "Body": 4,
+    "Willpower": 4,
+    "Melee": 2,
+    "Weapon_skill": 1,
+    "Constitution": 1,
+    "Weapon_size": 2,
+    "Armor_resistance": 0,
+    "Tactics": "berserk"
+  },
+  {
+    "Name": "peasant_defending",
+    "Agility": 4,
+    "Body": 4,
+    "Willpower": 4,
+    "Melee": 2,
+    "Weapon_skill": 1,
+    "Constitution": 1,
+    "Weapon_size": 2,
+    "Armor_resistance": 0,
+    "Tactics": "defend"
+  }
+]

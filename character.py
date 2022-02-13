@@ -1,7 +1,7 @@
 class Character:
-    __slots__ = ("agility", "melee", "weapon_skill", "body", "constitution", "willpower", "pa", "wound_limit",
+    __slots__ = ("name", "agility", "melee", "weapon_skill", "body", "constitution", "willpower", "pa", "wound_limit",
                  "light_wounds", "heavy_wounds", "critical_wounds", "offensive", "defensive", "weapon_size",
-                 "armor_resistance")
+                 "armor_resistance", "tactics")
 
     def __init__(self):
         self.light_wounds = 0
